@@ -1,4 +1,4 @@
-# AIGO2021_Machine_Learning
+# 解題團隊: 馬訓冷凝
 # 經濟部工業局 AI產業實戰應用人才淬煉計畫 (AIGO競賽)
 
 
